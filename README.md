@@ -6,9 +6,10 @@
 
 ### 一、截图
 动图有些压缩，效果不好，动画效果都没了
-|截图1|截图2|截图3|
-|:--:|:--:|:--:|
-|![动图](https://github.com/MarnonDev/GameNews/blob/master/screenshot/gamenews.gif)|![截图1](https://github.com/MarnonDev/GameNews/blob/master/screenshot/%E6%88%AA%E5%9B%BE1(1).png)|![截图2](https://github.com/MarnonDev/GameNews/blob/master/screenshot/%E6%88%AA%E5%9B%BE2(1).png)|
+
+![动图](https://github.com/MarnonDev/GameNews/blob/master/screenshot/gamenews.gif)
+![截图1](https://github.com/MarnonDev/GameNews/blob/master/screenshot/%E6%88%AA%E5%9B%BE1(1).png)
+![截图2](https://github.com/MarnonDev/GameNews/blob/master/screenshot/%E6%88%AA%E5%9B%BE2(1).png)
 
 ### 二、APK下载
  1. 下载链接 >>>[点击下载APK](http://download.fir.im/apps/57a71cd3ca87a83a1d0007f9/install?download_token=d90b6a589a016f56385ed635bfd544ed&release_id=57a71ce1548b7a552a00064b)
